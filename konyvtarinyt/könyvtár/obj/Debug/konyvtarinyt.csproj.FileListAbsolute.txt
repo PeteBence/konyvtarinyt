@@ -1,0 +1,8 @@
+D:\Iskola\programozás\komp.prog\k.ny.t\konyvtarinyt\könyvtár\obj\Debug\konyvtarinyt.csprojAssemblyReference.cache
+D:\Iskola\programozás\komp.prog\k.ny.t\konyvtarinyt\könyvtár\obj\Debug\MainWindow.g.cs
+D:\Iskola\programozás\komp.prog\k.ny.t\konyvtarinyt\könyvtár\obj\Debug\App.g.cs
+D:\Iskola\programozás\komp.prog\k.ny.t\konyvtarinyt\könyvtár\obj\Debug\könyvtár_MarkupCompile.cache
+D:\Iskola\programozás\komp.prog\k.ny.t\konyvtarinyt\könyvtár\obj\Debug\könyvtár_MarkupCompile.lref
+D:\Iskola\programozás\komp.prog\k.ny.t\konyvtarinyt\könyvtár\obj\Debug\MainWindow.baml
+D:\Iskola\programozás\komp.prog\k.ny.t\konyvtarinyt\könyvtár\obj\Debug\könyvtár.g.resources
+D:\Iskola\programozás\komp.prog\k.ny.t\konyvtarinyt\könyvtár\obj\Debug\könyvtár.pdb
